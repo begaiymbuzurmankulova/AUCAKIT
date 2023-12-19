@@ -92,33 +92,11 @@
       <p>Welcome to KADAM, your ultimate online destination for quality footwear. With a diverse collection sourced from different countries and brands...</p>
     </section>
   
-    <section class="alternate-section">
-      <div class="alternate-block">
-        <div class="alternate-image">
-          <img src="https://example.com/image1.jpg" alt="Image 1">
-        </div>
-        <div class="alternate-content">
-          <h2 class="alternate-h2">Heading 1</h2>
-          <p class="alternate-p">Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
-        </div>
-      </div>
-  
-      <div class="alternate-block reverse">
-        <div class="alternate-image">
-          <img src="https://example.com/image2.jpg" alt="Image 2">
-        </div>
-        <div class="alternate-content">
-          <h2 class="alternate-h2">Heading 2</h2>
-          <p class="alternate-p">Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua...</p>
-        </div>
-      </div>
-    </section>
-  
-    <footer>
+    <footer id="site-footer">
       <p>&copy; 2023 KADAM All rights reserved.</p>
       <div class="social-icons">
-        <a href="https://facebook.com/yourpage" target="_blank">Facebook</a>
-        <a href="https://instagram.com/yourusername" target="_blank">Instagram</a>
+        <a href="https://facebook.com/yourpage" target="_blank"><img src="https://q-media.ru/images/2021/10/27/1576058917-facebooklogo.jpg" alt="Facebook" style="width: 30px; height: 30px;"></a>
+        <a href="https://instagram.com/yourusername" target="_blank"><img src="https://avatars.mds.yandex.net/i?id=ff3558841d54e3766cb612b3b84644e1274ab13f-11386386-images-thumbs&n=13" alt="Instagram" style="width: 30px; height: 30px;"></a>
       </div>
     </footer>
   </div>

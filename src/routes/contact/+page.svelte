@@ -103,42 +103,15 @@
       <h2>Contact Us</h2>
       <p>For further details on your orders or any inquiries, feel free to get in touch with us...</p>
       <p>Call us anytime at: +996 123 456 789</p>
+      <p>If you have any ideas or want collaboration with our company, contact us via email</p>
+      <p>kadamshoes@gmail.com</p>
     </section>
   
-    <section class="options">
-      <h2>Choose the Perfect Shoes for You and Your Family!</h2>
-  
-      <div class="option">
-        <img src="https://example.com/mens-shoes.jpg" alt="Men's Shoes">
-        <h3>Men's Shoes</h3>
-        <p>$145</p>
-        <p>Explore our collection of men's shoes and pick the perfect size and color for your order.</p>
-      </div>
-  
-      <div class="option reverse">
-        <img src="https://example.com/womens-shoes.jpg" alt="Women's Shoes">
-        <div>
-          <h3>Women's Shoes</h3>
-          <p>$150</p>
-          <p>Discover elegant and comfortable women's shoes for various occasions and different models.</p>
-        </div>
-      </div>
-  
-      <div class="option">
-        <img src="https://example.com/kids-shoes.jpg" alt="Kid's Shoes">
-        <div>
-          <h3>Kid's Shoes</h3>
-          <p>$145</p>
-          <p>Give your little ones the joy of taking their first steps with our adorable collection of kid's shoes.</p>
-        </div>
-      </div>
-    </section>
-  
-    <footer>
-      <p>&copy; 2023 KADAM reserved.</p>
+    <footer id="site-footer">
+      <p>&copy; 2023 KADAM All rights reserved.</p>
       <div class="social-icons">
-        <a href="https://facebook.com/yourpage" target="_blank">Facebook</a>
-        <a href="https://instagram.com/yourusername" target="_blank">Instagram</a>
+        <a href="https://facebook.com/yourpage" target="_blank"><img src="https://q-media.ru/images/2021/10/27/1576058917-facebooklogo.jpg" alt="Facebook" style="width: 30px; height: 30px;"></a>
+        <a href="https://instagram.com/yourusername" target="_blank"><img src="https://avatars.mds.yandex.net/i?id=ff3558841d54e3766cb612b3b84644e1274ab13f-11386386-images-thumbs&n=13" alt="Instagram" style="width: 30px; height: 30px;"></a>
       </div>
     </footer>
   </div>

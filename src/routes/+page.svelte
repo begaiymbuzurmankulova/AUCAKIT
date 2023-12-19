@@ -19,8 +19,8 @@
     <nav class="menu">
       <ul>
         <li><a href="#hero">Home</a></li>
-        <li><a href="#about">About</a></li>
-        <li><a href="#contact">Contact Us</a></li>
+        <li><a href="about">About</a></li>
+        <li><a href="contact">Contact Us</a></li>
       </ul>
     </nav>
   </header>
@@ -40,8 +40,10 @@
 
   <section class="page" id="contact">
     <h2>Contact Us</h2>
-    <p>For further details on your orders or any inquiries, feel free to get in touch with us. Our customer service is available around the clock to assist you.</p>
+    <p>For further details on your orders or any inquiries, feel free to get in touch with us...</p>
     <p>Call us anytime at: +996 123 456 789</p>
+    <p>If you have any ideas or want collaboration with our company, contact us via email</p>
+    <p>kadamshoes@gmail.com</p>
   </section>
 
   <section class="options">
